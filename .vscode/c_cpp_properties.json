@@ -8,7 +8,9 @@
             "includePath": [
                 "/opt/ros/noetic/include/**",
                 "/usr/include/**",
-                "/opt/ros/noetic/include"
+                "/opt/ros/noetic/include",
+                "/usr/include/pcl-1.10",
+                "/usr/include/eigen3"
             ],
             "name": "ROS",
             "intelliSenseMode": "gcc-x64",
